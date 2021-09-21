@@ -16,3 +16,6 @@
 1. Place the 2 points by pressing on a block
 2. Adjust the positions, and press on Save Area
 3. The build ID will be copied to your clipboard
+
+# Credit
+- Jxl
